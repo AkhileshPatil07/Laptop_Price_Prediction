@@ -1,7 +1,3 @@
-Based on the GitHub structure visible in your screenshot, your project is a **Laptop Price Prediction Machine Learning project** with a modular architecture. I can see `artifacts`, `laptop_price`, `components`, `entity`, `pipeline`, `prediction`, `config.py`, `exception.py`, `logger.py`, `utils.py`, `app.py`, `main.py`, `check_model.py`, and `requirements.txt`.
-
-Here is a **professional README.md** you can use directly in your GitHub repository. I have avoided claiming specific algorithms or accuracy because they are not visible in the screenshot.
-
 # 💻 Laptop Price Prediction
 
 A machine learning project that predicts the **price of a laptop** based on its specifications and features. The project follows a modular and structured machine learning architecture, making the workflow easier to maintain, test, and deploy.
